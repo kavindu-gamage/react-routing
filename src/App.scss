@@ -1,0 +1,10 @@
+/* The following line can be included in a src/App.scss */
+$primary:#824baa;
+$border-radius:25px;
+
+.user-area{
+    color: $primary
+}
+
+@import '~bootstrap/scss/bootstrap';
+
